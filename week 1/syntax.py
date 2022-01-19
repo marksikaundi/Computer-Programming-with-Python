@@ -14,14 +14,16 @@ if 5 > 2:
 # example
 
 if 5 > 2:
-print("Five is greater than two!") #here you get a syntax error
+# print("Five is greater than two!") #here you get a syntax error
 
 # The number of spaces is up to you as a programmer, but it has to be at least one.
 # Example
-if 5 > 2:
- print("Five is greater than two!") 
-if 5 > 2:
-        print("Five is greater than two!") 
+
+
+# if 5 > 2:
+#  print("Five is greater than two!") 
+# if 5 > 2:
+#         print("Five is greater than two!") 
 
 # Python Variables
 # In Python, variables are created when you assign a value to it:
@@ -29,28 +31,29 @@ if 5 > 2:
 # Example
 # Variables in Python:
 
-x = 5
-y = "Hello, World!"
-""""
-Python has no command for declaring a variable.
-You will learn more about variables in the Python Variables chapter.
+# x = 5
+# y = "Hello, World!"
 
-Comments
-Python has commenting capability for the purpose of in-code documentation.
-Comments start with a #, and Python will render the rest of the line as a comment:
 
-use of comments
-Comments in Python:
-Comments can be used to explain Python code.
-Comments can be used to make the code more readable.
-Comments can be used to prevent execution when testing code.
+# Python has no command for declaring a variable.
+# You will learn more about variables in the Python Variables chapter.
 
-Creating a Comment
-Comments starts with a #, and Python will ignore them:
-"""
+# Comments
+# Python has commenting capability for the purpose of in-code documentation.
+# Comments start with a #, and Python will render the rest of the line as a comment:
+
+# use of comments
+# Comments in Python:
+# Comments can be used to explain Python code.
+# Comments can be used to make the code more readable.
+# Comments can be used to prevent execution when testing code.
+
+# Creating a Comment
+# Comments starts with a #, and Python will ignore them:
+
 
 #This is a comment.
-print("Hello, World!")
+ print("Hello, World!")
 
 # Comments can be placed at the end of a line, and Python will ignore the rest of the line:
 # example

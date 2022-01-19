@@ -74,9 +74,9 @@ myvar2 = "John"
 # Example
 # Illegal variable names:
 
-2myvar = "John"
-my-var = "John"
-my var = "John"
+# 2myvar = "John"
+# my-var = "John"
+# my var = "John"
 # Remember that variable names are case-sensitive
 
 # Multi Words Variable Names
