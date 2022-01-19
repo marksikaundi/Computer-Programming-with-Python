@@ -1,0 +1,14 @@
+# you have learn quite alot about variable, now its time to do exercises
+
+Exercise: one
+Create a variable named carname and assign the value Volvo to it.
+
+Exercise: Two
+Display the sum of 5 + 10, using two variables: x and y.
+
+Exercise: Three
+Create a variable called z, assign x + y to it, and display the result.
+
+Exercise: Four
+Remove the illegal characters in the variable name:
+2my-first_name = "John"
