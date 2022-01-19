@@ -12,3 +12,11 @@ Create a variable called z, assign x + y to it, and display the result.
 Exercise: Four
 Remove the illegal characters in the variable name:
 2my-first_name = "John"
+
+Exercise: Five
+Insert the correct keyword to make the variable x belong to the global scope.
+def myfunc():
+  
+global x
+  x = "fantastic"
+
